@@ -1,9 +1,14 @@
 between
 =======
+> get string between 2 strings
+
+*****
 
 ## Installation
 
-``npm install ddo/between``
+```
+npm install ddo/between
+```
 
 ## Usage
 
