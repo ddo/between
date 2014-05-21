@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ddo/between",
   "devDependencies": {
-    "chai": "^1.9.1"
+    "chai": "^1.9.1",
+    "mocha": "*"
   }
 }
