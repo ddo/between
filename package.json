@@ -1,0 +1,22 @@
+{
+  "name": "between",
+  "version": "0.0.1",
+  "description": "get string between 2 strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "ddo/between",
+  "keywords": [
+    "between"
+  ],
+  "author": "ddo <joeddo89@gmail.com> (http://ddo.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddo/between/issues"
+  },
+  "homepage": "https://github.com/ddo/between",
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
