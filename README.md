@@ -1,4 +1,4 @@
-between ![codeship](https://www.codeship.io/projects/219b4b70-c355-0131-40c4-66b9ad036c95/status)
+between [![Build Status](https://travis-ci.org/ddo/between.svg?branch=master)](https://travis-ci.org/ddo/between)
 =======
 > get string between 2 strings
 
